@@ -2,7 +2,7 @@
 
 This is a [Brackets](http://brackets.io) extension for visualizing cubic-bezier-based timing functions.
 
-![Bottom Bezier Screenshot](http://f.cl.ly/items/1W1r2z072R07140c430C/bottom-bezier.png)
+![Bottom Bezier Screenshot](http://f.cl.ly/items/1C392N2x1v3w2j2g3s3O/bottom-bezier.png)
 
 ### Installation
 
