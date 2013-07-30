@@ -6,8 +6,3 @@
 #bottom-bezier-icon.active {
     background-position: 0 -24px !important;
 }
-
-/* Bottom Browser Panel */
-#bottom-bezier-iframe {
-    background: #fff;
-}
