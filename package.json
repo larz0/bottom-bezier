@@ -1,0 +1,12 @@
+{
+    "name": "larz0.bottom-bezier",
+    "title": "Bottom Bezier",
+    "description": "Cubic Bezier Timing Function Visualizer",
+    "homepage": "https://github.com/larz0/bottom-bezier",
+    "version": "0.0.1",
+    "author": "Larz (http://github.com/larz0)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.27.0"
+    }
+}
