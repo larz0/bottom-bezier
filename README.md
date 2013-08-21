@@ -17,7 +17,7 @@ This is a [Brackets](http://brackets.io) extension for visualizing cubic-bezier-
 
 ### Credits
 
-This extension is based on [@LeaVerou](https://github.com/gruehle)'s great [Cubic-Bezier](https://github.com/LeaVerou/cubic-bezier).
+This extension is based on [@LeaVerou](https://github.com/LeaVerou)'s great [Cubic-Bezier](https://github.com/LeaVerou/cubic-bezier).
 
 ### Version History
 
